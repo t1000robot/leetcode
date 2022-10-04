@@ -1,4 +1,4 @@
-package java.startTemplate;
+package main.java.medium.someOtherTask;
 
 class Main {
 

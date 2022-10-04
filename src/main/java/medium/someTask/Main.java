@@ -1,4 +1,4 @@
-package java.easy.validParntheses;
+package main.java.medium.someTask;
 
 class Main {
 

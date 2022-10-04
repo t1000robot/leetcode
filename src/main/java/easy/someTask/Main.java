@@ -1,4 +1,4 @@
-package java.hard.someOtherTask;
+package main.java.easy.someTask;
 
 class Main {
 

@@ -1,4 +1,4 @@
-package java.medium.someOtherTask;
+package main.java.hard.someTask;
 
 class Main {
 
